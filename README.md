@@ -9,32 +9,28 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a MTA:SA scripter from <b>Uruguay</b> 」
                 <br>
-                「 Focused on creating impactful web applications that improve lives</b> 」
+                「 Making scripts, systems and small projects for fun and clients! 」 
                 <br>
                 <br>
         </samp>
         <!-- Technologies -->
-        <!-- JavaScript -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <!-- Lua -->
+        <a href="https://www.lua.org/" target="_blank"><img alt="Lua"
+                        src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white">
         </a>
-        <!-- React -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <!-- MySQL -->
+        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL"
+                        src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         </a>
-        <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        <!-- Git -->
+        <a href="https://git-scm.com/" target="_blank"><img alt="Git"
+                        src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white">
         </a>
-        <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        <!-- Discord -->
+        <a href="https://discord.com/" target="_blank"><img alt="Discord"
+                        src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white">
         </a>
 </p>
 
@@ -44,26 +40,26 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Romero's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=notranco&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+        <a href="mailto:tuemail@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+        <a href="https://twitter.com/tuusuario" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/tuusuario/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <!-- Discord -->
+        <a href="https://discord.com/users/tuID" target="_blank"><img alt="Discord"
+                src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white">
         </a>
     </p>
 </details>
@@ -74,7 +70,7 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding👨‍💻"
+        "Happy Scripting👨‍💻"
     </p>
 </samp>
 
@@ -82,21 +78,21 @@
 #### Featured
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Romero/tu-repo1">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Romero&repo=tu-repo1&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Romero/tu-repo2">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Romero&repo=tu-repo2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Romero/tu-repo3">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Romero&repo=tu-repo3&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/Romero/tu-repo4">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Romero&repo=tu-repo4&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
