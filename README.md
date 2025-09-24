@@ -3,15 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="250" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="250" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="250" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="250" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="250" alt="lua logo"  />
   <img width="12" />
 </div>
 
