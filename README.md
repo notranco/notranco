@@ -2,7 +2,7 @@
 
 Soy programador de **MTA: San Andreas**, haciendo scripts y sistemas a medida para servidores. Me gusta crear cosas que funcionen bien y sean fáciles de usar, desde HUDs hasta inventarios y sistemas RPG.
 
-###
+<h2 align="left">Programo con</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="250" alt="html logo"  />
@@ -16,6 +16,8 @@ Soy programador de **MTA: San Andreas**, haciendo scripts y sistemas a medida pa
   <img src="https://skillicons.dev/icons?i=lua" height="250" alt="lua logo"  />
   <img width="12" />
 </div>
+
+<h2 align="left">Contacto</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
