@@ -1,9 +1,11 @@
-<!-- Title -->
+<!-- Title 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="#">Romero</a></b>
         </samp>
 </h3>
+-->
+![Header](./banner.png)
 <br>
 
 <p align="center">
