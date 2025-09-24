@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey, qué pasa</h1>
+<h1 align="center">Hey, qué pasa 👋</h1>
+
+Soy programador de **MTA: San Andreas**, haciendo scripts y sistemas a medida para servidores. Me gusta crear cosas que funcionen bien y sean fáciles de usar, desde HUDs hasta inventarios y sistemas RPG.
 
 ###
 
@@ -14,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=lua" height="250" alt="lua logo"  />
   <img width="12" />
 </div>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
