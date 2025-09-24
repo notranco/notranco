@@ -57,10 +57,6 @@
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:is.romer211@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
         <!-- Discord -->
         <a href="https://discord.com/users/327985964330909706" target="_blank"><img alt="Discord"
                 src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white">
