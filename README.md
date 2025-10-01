@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a MTA:SA scripter from <b>Uruguay</b> 」
+                「 I'm a scripter & developer from <b>Uruguay</b> 」
                 <br>
                 「 Making scripts, systems and small projects for fun and clients! 」 
                 <br>
